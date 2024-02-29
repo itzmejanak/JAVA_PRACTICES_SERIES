@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00_AT CLASS/CW/07_OPP/07_OPP.iml" filepath="$PROJECT_DIR$/00_AT CLASS/CW/07_OPP/07_OPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00_AT CLASS/CW/CW.iml" filepath="$PROJECT_DIR$/00_AT CLASS/CW/CW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00_AT CLASS/HW/HW.iml" filepath="$PROJECT_DIR$/00_AT CLASS/HW/HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00_AT CLASS/CW/07_OPP/OPP_Basics/OPP_Basics.iml" filepath="$PROJECT_DIR$/00_AT CLASS/CW/07_OPP/OPP_Basics/OPP_Basics.iml" />
+    </modules>
+  </component>
+</project>
