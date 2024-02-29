@@ -1,9 +1,8 @@
 # Java Programming Learning Roadmap
-
+  - RoadMap: ["Java Full Road map"](https://whimsical.com/java-F3wA8hstGi42DU8BZrsCUL) by Janak Devkota 
 This guide outlines a structured approach to learning Java programming from basic concepts to advanced topics. Whether you're a beginner or looking to enhance your Java skills, this roadmap will help you navigate through the essential areas of Java development.
 
 ## 1. Basic Concepts
-  - Book: ["Java Full Road map"](https://whimsical.com/java-F3wA8hstGi42DU8BZrsCUL) by Kathy 
 - Start with understanding basic programming concepts such as variables, data types, operators, control structures (if statements, loops), and functions/methods.
 - **Resources:**
   - Book: ["Head First Java"](https://www.oreilly.com/library/view/head-first-java/9780596009205/) by Kathy Sierra and Bert Bates
