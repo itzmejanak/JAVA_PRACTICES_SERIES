@@ -1,6 +1,6 @@
 # Java Programming Learning Roadmap
   - RoadMap: ["Java Full Road map"](https://whimsical.com/java-F3wA8hstGi42DU8BZrsCUL) by Janak Devkota
-  - Roadmap for Devlopment: ["Next: "(https://whimsical.com/java-developer-roadmap-UaaG8zZL1pMbQJE3AN9vEX)]
+  - Roadmap for Devlopment:: ["Java Full Road map"](https://whimsical.com/java-developer-roadmap-UaaG8zZL1pMbQJE3AN9vEX) by Janak Devkota
 This guide outlines a structured approach to learning Java programming from basic concepts to advanced topics. Whether you're a beginner or looking to enhance your Java skills, this roadmap will help you navigate through the essential areas of Java development.
 
 ## 1. Basic Concepts
