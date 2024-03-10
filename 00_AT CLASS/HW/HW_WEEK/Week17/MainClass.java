@@ -51,7 +51,7 @@ public class MainClass {
                     userExists = true;
                     if (user.getPassword().equals(askedPwd)) {
                         System.out.println("Hello " + user.getName());
-                        quiet =true;
+                        quiet = true;
                     } else {
                         System.out.println("Your credentials are wrong");
                     }
@@ -69,8 +69,17 @@ public class MainClass {
                     System.out.println("Enter your password ? ");
                     String newPassword = scanner.nextLine();
 
-                    userList.add(new User(newName, newUsername, newPassword));
-                    System.out.println("Thank you for your registration ");
+                        for(User user: userList){
+                            if(user.getUsername().equals(newUsername)){
+                                System.out.println("Username already Exists");
+                                quiet = true;
+                                break;
+                            }else{
+                                userList.add(new User(newName, newUsername, newPassword));
+                                System.out.println("Thank you for your registration ");
+                            }
+                        }
+
                 } else {
                     System.out.println("Do you want to register again ? ");
                     String answer = scanner.nextLine();
