@@ -1,4 +1,4 @@
-package src.Week16;
+package src.Week16.Lab;
 
 import java.util.Scanner;
 public class Runner {

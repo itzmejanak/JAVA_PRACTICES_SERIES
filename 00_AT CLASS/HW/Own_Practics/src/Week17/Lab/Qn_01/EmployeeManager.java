@@ -1,4 +1,4 @@
-package src.Week17.Lab;
+package src.Week17.Lab.Qn_01;
 import java.util.Scanner;
 
 public class EmployeeManager extends Employee{

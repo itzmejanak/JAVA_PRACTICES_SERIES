@@ -1,4 +1,4 @@
-package src.Week16;
+package src.Week16.Lab;
 
 //Week 16 Lab
 //1. Create a class BillingSystem (Super Class) with the following

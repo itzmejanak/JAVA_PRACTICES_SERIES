@@ -35,9 +35,9 @@ public class MainClass {
 
 
         Scanner scanner = new Scanner(System.in);
-        boolean quiet = false; 
+        boolean quiet = true;
 
-        while (!quiet) {
+        while (quiet) {
             System.out.println("What is your Username? ");
             String askedName = scanner.nextLine();
 
@@ -51,7 +51,7 @@ public class MainClass {
                     userExists = true;
                     if (user.getPassword().equals(askedPwd)) {
                         System.out.println("Hello " + user.getName());
-                        quiet = true;
+                        quiet = false;
                     } else {
                         System.out.println("Your credentials are wrong");
                     }
@@ -69,16 +69,10 @@ public class MainClass {
                     System.out.println("Enter your password ? ");
                     String newPassword = scanner.nextLine();
 
-                        for(User user: userList){
-                            if(user.getUsername().equals(newUsername)){
-                                System.out.println("Username already Exists");
-                                quiet = true;
-                                break;
-                            }else{
-                                userList.add(new User(newName, newUsername, newPassword));
-                                System.out.println("Thank you for your registration ");
-                            }
-                        }
+
+                    userList.add(new User(newName, newUsername, newPassword));
+                    System.out.println("Thank you for your registration ");
+
 
                 } else {
                     System.out.println("Do you want to register again ? ");
