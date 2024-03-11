@@ -1,4 +1,4 @@
-package src.02_Practices;
+package src.Practices;
 import javax.swing.*;
 import java.awt.*;
 
