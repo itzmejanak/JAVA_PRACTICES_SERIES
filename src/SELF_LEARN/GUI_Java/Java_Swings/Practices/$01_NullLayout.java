@@ -1,7 +1,7 @@
 package SELF_LEARN.GUI_Java.Java_Swings.Practices;
 import javax.swing.*;
 import java.awt.Container;
-public class NullLayout {
+public class $01_NullLayout {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Null layout Example");
         frame.setBounds(300,200,500,300);

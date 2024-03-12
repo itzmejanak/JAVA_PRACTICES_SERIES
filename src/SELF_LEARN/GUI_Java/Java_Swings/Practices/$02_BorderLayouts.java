@@ -2,7 +2,7 @@ package SELF_LEARN.GUI_Java.Java_Swings.Practices;
 import javax.swing.*;
 import java.awt.*;
 
-public class BorderLayouts {
+public class $02_BorderLayouts {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Border layout Example");
         frame.setBounds(300,200,500,300);

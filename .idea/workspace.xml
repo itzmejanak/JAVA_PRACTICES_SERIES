@@ -1,119 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9c7d2b32-8b19-4471-a0bc-6fe1048a2804" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$02_Polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$02_Polymorphism/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$02_Polymorphism/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$02_Polymorphism/MainMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/FlowLayouts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$09_Exception/Calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$10_GUI/Frame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$10_GUI/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week17/Practices/Week17/Tutorial/FirstYearCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$00_LayoutManager.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$01_NullLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$02_BorderLayouts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$03_FlowLayouts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$04_GridLayouts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$05_GridBagLayouts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$06_CardLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$07_JPanel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$08_JPanelProblems.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/01_Basics/janak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$01_Basics/Calculation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/01_Basics/java maths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$01_Basics/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/02_Basics/BooleanIFelse_Nov30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$02_Basics/BooleanIFelse_Nov30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/02_Basics/FirstJavaProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$02_Basics/FirstJavaProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/02_Basics/Tilicho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$02_Basics/Tilicho.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/02_Basics/data_types1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$02_Basics/Data_types1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/03_Basics/Nov23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$03_Basics/Nov23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/03_Basics/Nov28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$03_Basics/Nov28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/03_Basics/Snov28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$03_Basics/Snov28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/03_Basics/hyptns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$03_Basics/Hyptns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/04_Basics/RandomExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$04_Basics/RandomExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/05_Basics/Dialogue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$05_Basics/Dialogue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/05_Basics/Fcatorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$05_Basics/Fcatorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/05_Basics/NestedIfElseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$05_Basics/NestedIfElseExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/05_Basics/Nov30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$05_Basics/Nov30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/06_Basics/Addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$06_Basics/Addition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/06_Basics/Loops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$06_Basics/Loops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/06_Basics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$06_Basics/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/06_Basics/loopssss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$06_Basics/loopssss.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/07_OPP.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/00_Test/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$00_Test/Homework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/00_Test/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/00_Test/myFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$00_Test/myFirst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/01_Concepts/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$01_Concepts/Add.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/01_Concepts/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$01_Concepts/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/01_Concepts/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$01_Concepts/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/01_Concepts/Dogs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$01_Concepts/Dogs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/01_Concepts/Friends.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$01_Concepts/Friends.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/01_Concepts/NwwCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$01_Concepts/NwwCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/01_Concepts/Opps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$01_Concepts/Opps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/01_Concepts/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$01_Concepts/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/01_Concepts/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$01_Concepts/Students.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/01_Concepts/sstatClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$01_Concepts/StatClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/02_Polymorphism/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/03_Inheritance/GrandPA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$03_Inheritance/GrandPA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/03_Inheritance/Papaji.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$03_Inheritance/Papaji.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/04_Encapsulation/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$04_Encapsulation/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/04_Encapsulation/Dec28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$04_Encapsulation/Dec28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/04_Encapsulation/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$04_Encapsulation/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/04_Encapsulation/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$04_Encapsulation/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/05_Abstarction/Abexample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$05_Abstarction/Abexample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/05_Abstarction/SecondDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$05_Abstarction/SecondDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/05_Abstarction/ThirdDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$05_Abstarction/ThirdDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/06_Interface/Day1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$06_Interface/Day1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/OPP_Basics/06_Interface/Drivable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$06_Interface/Drivable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/Own_Practics/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/Own_Practics/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/Own_Practics/Banking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/Own_Practics/Banking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/Own_Practics/BankingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/Own_Practics/BankingSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/07_OPP/Own_Practics/Bnking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/Own_Practics/Bnking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/08_Array/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$08_Array/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/08_Array/FirstArrysL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$08_Array/FirstArrysL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/CW/CW.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/Course_Works/coursework 1/Lecturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_1/Lecturer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/Course_Works/coursework 1/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_1/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/Course_Works/coursework 1/Tutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_1/Tutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/HW.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/HW_WEEK/Week17/HW/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week17/HW/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/HW_WEEK/Week17/HW/MainClass2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week17/HW/MainClass2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/HW_WEEK/Week17/Practices/Week16/Lab/BillingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week17/Practices/Week16/Lab/BillingSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/HW_WEEK/Week17/Practices/Week16/Lab/MyCafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week17/Practices/Week16/Lab/MyCafe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/HW_WEEK/Week17/Practices/Week16/Lab/MyRestro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week17/Practices/Week16/Lab/MyRestro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/HW_WEEK/Week17/Practices/Week16/Lab/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week17/Practices/Week16/Lab/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/HW_WEEK/Week17/Practices/Week16/Tutorial/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week17/Practices/Week16/Tutorial/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/HW_WEEK/Week17/Practices/Week16/Tutorial/NICAsiaBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week17/Practices/Week16/Tutorial/NICAsiaBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/HW_WEEK/Week17/Practices/Week16/Tutorial/NabilBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week17/Practices/Week16/Tutorial/NabilBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/HW_WEEK/Week17/Practices/Week16/Tutorial/NepalRastraBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week17/Practices/Week16/Tutorial/NepalRastraBank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/HW_WEEK/Week17/Practices/Week17/Lab/Qn_01/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week17/Practices/Week17/Lab/Qn_01/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/HW_WEEK/Week17/Practices/Week17/Lab/Qn_01/EmployeeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week17/Practices/Week17/Lab/Qn_01/EmployeeManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/HW_WEEK/Week17/Practices/Week17/Lab/Qn_02/Airlines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week17/Practices/Week17/Lab/Qn_02/Airlines.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/HW_WEEK/Week17/Practices/Week17/Lab/Qn_02/AirlinesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week17/Practices/Week17/Lab/Qn_02/AirlinesRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/HW_WEEK/Week17/Practices/Week17/Lab/Qn_02/BuddhAirlines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week17/Practices/Week17/Lab/Qn_02/BuddhAirlines.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/HW_WEEK/Week17/Practices/Week17/Lab/Qn_02/NepalAirlines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week17/Practices/Week17/Lab/Qn_02/NepalAirlines.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/HW_WEEK/Week3-4/Week_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week3_4/Week_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/HW_WEEK/Week3-4/Week_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week3_4/Week_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/Own_Practics/ExtraQuestionsW4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Own_Practics/ExtraQuestionsW4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/Own_Practics/Java_part1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Own_Practics/Java_part1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/Own_Practics/Java_part2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Own_Practics/Java_part2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/Own_Practics/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Own_Practics/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/00_AT CLASS/HW/Own_Practics/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Own_Practics/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Self Learn/Core Java/01_Basics/00_Overview.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$01_Basics/00_Overview.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Self Learn/Core Java/01_Basics/01_Comments.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$01_Basics/01_Comments.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Self Learn/Core Java/01_Basics/02_Package_Declaration.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$01_Basics/02_Package_Declaration.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Self Learn/Core Java/01_Basics/03_Class_Declaration.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$01_Basics/03_Class_Declaration.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Self Learn/Core Java/01_Basics/04_Main Method.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$01_Basics/04_Main Method.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Self Learn/Core Java/01_Basics/05_Variables &amp; DataTypes.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$01_Basics/05_Variables &amp; DataTypes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Self Learn/Core Java/Exception handeling/01_Exception.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/Exception handeling/01_Exception.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Self Learn/Core Java/Exception handeling/02_Diff Excep &amp; Err.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/Exception handeling/02_Diff Excep &amp; Err.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Self Learn/Core Java/Exception handeling/03_Diff Ch &amp; UnCh.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/Exception handeling/03_Diff Ch &amp; UnCh.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Self Learn/GUI Java/Java Swings/01_Theory Swing/01_Intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Theory_Swing/01_Intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Self Learn/GUI Java/Java Swings/01_Theory Swing/02_Awt vs Swing.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Theory_Swing/02_Awt vs Swing.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Self Learn/GUI Java/Java Swings/01_Theory Swing/03_FirstGUI.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Theory_Swing/03_FirstGUI.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Self Learn/GUI Java/Java Swings/Practices/00_LayoutManager.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/00_LayoutManager.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Self Learn/GUI Java/Java Swings/Practices/BorderLayouts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/BorderLayouts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Self Learn/GUI Java/Java Swings/Practices/FlowLayouts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Self Learn/GUI Java/Java Swings/Practices/NullLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/NullLayout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/01_Self Learn/GUI Java/JavaFX/commingSoon" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/JavaFX/commingSoon" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/00_LayoutManager.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/BorderLayouts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/FlowLayouts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/NullLayout.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "itzmejanak"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="542780db-f845-4fd3-8daa-1259706baec4" />
+        <option name="url" value="https://github.com/itzmejanak/JAVA_PRACTICES_SERIES.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$06_Interface/Calculation.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -123,23 +64,128 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2dYTlp5f8BgnNthkyV2hyI9Jam2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.$03_FlowLayouts.executor": "Run",
+    "Application.$04_GridLayouts.executor": "Run",
+    "Application.$05_GridBagLayouts.executor": "Run",
+    "Application.$06_CardLayout.executor": "Run",
+    "Application.$08_JPanelProblems.executor": "Run",
+    "Application.AT_CLASS.CW.$07_OPP.OPP_Basics.$06_Interface.Calculation.executor": "Run",
+    "Application.AT_CLASS.CW.$09_Exception.Calculation.executor": "Run",
     "Application.BorderLayouts.executor": "Run",
+    "Application.Calculation.executor": "Run",
+    "Application.FlowLayouts (1).executor": "Run",
+    "Application.FlowLayouts.executor": "Run",
+    "Application.Frame.executor": "Run",
+    "Application.Login.executor": "Run",
+    "Application.NullLayout.executor": "Run",
+    "Application.Test.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/janak/OneDrive/Desktop/JAVA/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.$08_JPanelProblems">
+    <configuration name="$03_FlowLayouts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.$03_FlowLayouts" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="$04_GridLayouts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.$04_GridLayouts" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="$05_GridBagLayouts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.$05_GridBagLayouts" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="$06_CardLayout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.$06_CardLayout" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="$08_JPanelProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.$08_JPanelProblems" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.$08_JPanelProblems" />
+        <item itemvalue="Application.$06_CardLayout" />
+        <item itemvalue="Application.$05_GridBagLayouts" />
+        <item itemvalue="Application.$04_GridLayouts" />
+        <item itemvalue="Application.$03_FlowLayouts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -150,11 +196,32 @@
       <updated>1710184166371</updated>
       <workItem from="1710184167506" duration="43000" />
       <workItem from="1710184349056" duration="56000" />
+      <workItem from="1710184610006" duration="262000" />
+      <workItem from="1710185001758" duration="27000" />
+      <workItem from="1710213543710" duration="64000" />
+      <workItem from="1710213616386" duration="4686000" />
+      <workItem from="1710259532643" duration="10973000" />
+      <workItem from="1710270542533" duration="546000" />
+      <workItem from="1710271131231" duration="3624000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -166,5 +233,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JAVA$AT_CLASS_CW__07_OPP_OPP_Basics__06_Interface_Calculation.ic" NAME="AT_CLASS.CW.$07_OPP.OPP_Basics.$06_Interface.Calculation Coverage Results" MODIFIED="1710216583807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>AT_CLASS.CW.$07_OPP.OPP_Basics.$06_Interface.*</FILTER>
+    </SUITE>
   </component>
 </project>

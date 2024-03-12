@@ -2,7 +2,7 @@ package SELF_LEARN.GUI_Java.Java_Swings.Practices;
 import java.awt.*;
 import javax.swing.*;
 
-public class FlowLayouts extends JFrame {
+public class $03_FlowLayouts extends JFrame {
     // by default components are set to center in flow layout
     JButton btn1 = new JButton("Button 1 Extra text");  // auto set width according to text length
     JButton btn2 = new JButton("Button 2");
@@ -10,7 +10,7 @@ public class FlowLayouts extends JFrame {
     JButton btn4 = new JButton("Button 4");
     JButton btn5 = new JButton("Button 5");
 
-    public FlowLayouts() {
+    public $03_FlowLayouts() {
         setTitle("Example of Flow Layout");
         setBounds(100, 200, 500, 300);
         setVisible(true);
@@ -18,7 +18,7 @@ public class FlowLayouts extends JFrame {
 
         Container c = getContentPane();
         // How can i set the layout position ?
-//        FlowLayout flowLayout = new FlowLayout(FlowLayout.LEFT);       // Ans. just pass the parameter where you want
+//        $03_FlowLayouts flowLayout = new $03_FlowLayouts(FlowLayout.LEFT);       // Ans. just pass the parameter where you want
 
         // 2. How can i give the horizentical and vertical gap to the componets ?
         FlowLayout flowLayout = new FlowLayout(FlowLayout.LEFT,10,20);
@@ -32,7 +32,7 @@ public class FlowLayouts extends JFrame {
     }
 
     public static void main(String[] args) {
-        new FlowLayouts();
+        new $03_FlowLayouts();
     }
 }
 
