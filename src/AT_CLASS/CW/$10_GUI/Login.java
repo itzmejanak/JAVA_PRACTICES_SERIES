@@ -20,8 +20,9 @@ public class Login {
         frame.add(usernameInput);
         frame.add(passwordLabel);
         frame.add(passwordInput);
-
-        frame.setLayout(new FlowLayout());
+        FlowLayout fl1 = new FlowLayout();
+        fl1.setAlignment(FlowLayout.LEFT);
+        frame.setLayout(fl1);
 
         frame.setVisible(true);
     }

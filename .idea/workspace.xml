@@ -5,24 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c7d2b32-8b19-4471-a0bc-6fe1048a2804" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$09_Exception/Calculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$10_GUI/Frame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$10_GUI/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/HW_WEEK/Week17/Practices/Week17/Tutorial/FirstYearCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$00_LayoutManager.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$01_NullLayout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$02_BorderLayouts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$03_FlowLayouts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$04_GridLayouts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$05_GridBagLayouts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$06_CardLayout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$07_JPanel.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$08_JPanelProblems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Own_Practics/MusicPlaylistSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Own_Practics/NumberGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Own_Practics/SnackVendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Own_Practics/V_or_Cons.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/00_LayoutManager.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/BorderLayouts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/FlowLayouts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/NullLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AT_CLASS/CW/$10_GUI/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$10_GUI/Login.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -39,12 +28,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "itzmejanak"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;itzmejanak&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -87,8 +76,12 @@
     "Application.FlowLayouts.executor": "Run",
     "Application.Frame.executor": "Run",
     "Application.Login.executor": "Run",
+    "Application.MusicPlaylistSelector.executor": "Run",
     "Application.NullLayout.executor": "Run",
+    "Application.NumberGame.executor": "Run",
+    "Application.SnackVendingMachine.executor": "Run",
     "Application.Test.executor": "Debug",
+    "Application.V_or_Cons.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -100,16 +93,17 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/janak/OneDrive/Desktop/JAVA/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.$08_JPanelProblems">
-    <configuration name="$03_FlowLayouts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.$03_FlowLayouts" />
+  <component name="RunManager" selected="Application.SnackVendingMachine">
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AT_CLASS.CW.$10_GUI.Login" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.*" />
+          <option name="PATTERN" value="AT_CLASS.CW.$10_GUI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$04_GridLayouts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.$04_GridLayouts" />
+    <configuration name="MusicPlaylistSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AT_CLASS.HW.Own_Practics.MusicPlaylistSelector" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.*" />
+          <option name="PATTERN" value="AT_CLASS.HW.Own_Practics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$05_GridBagLayouts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.$05_GridBagLayouts" />
+    <configuration name="NumberGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AT_CLASS.HW.Own_Practics.NumberGame" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.*" />
+          <option name="PATTERN" value="AT_CLASS.HW.Own_Practics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$06_CardLayout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.$06_CardLayout" />
+    <configuration name="SnackVendingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AT_CLASS.HW.Own_Practics.SnackVendingMachine" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.*" />
+          <option name="PATTERN" value="AT_CLASS.HW.Own_Practics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="$08_JPanelProblems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.$08_JPanelProblems" />
+    <configuration name="V_or_Cons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AT_CLASS.HW.Own_Practics.V_or_Cons" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.*" />
+          <option name="PATTERN" value="AT_CLASS.HW.Own_Practics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.$08_JPanelProblems" />
-        <item itemvalue="Application.$06_CardLayout" />
-        <item itemvalue="Application.$05_GridBagLayouts" />
-        <item itemvalue="Application.$04_GridLayouts" />
-        <item itemvalue="Application.$03_FlowLayouts" />
+        <item itemvalue="Application.SnackVendingMachine" />
+        <item itemvalue="Application.MusicPlaylistSelector" />
+        <item itemvalue="Application.V_or_Cons" />
+        <item itemvalue="Application.NumberGame" />
+        <item itemvalue="Application.Login" />
       </list>
     </recent_temporary>
   </component>
@@ -203,6 +197,8 @@
       <workItem from="1710259532643" duration="10973000" />
       <workItem from="1710270542533" duration="546000" />
       <workItem from="1710271131231" duration="3624000" />
+      <workItem from="1710395064649" duration="3741000" />
+      <workItem from="1710399173268" duration="2889000" />
     </task>
     <servers />
   </component>
