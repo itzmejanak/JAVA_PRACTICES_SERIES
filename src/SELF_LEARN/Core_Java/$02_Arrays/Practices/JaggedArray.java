@@ -1,4 +1,4 @@
-package SELF_LEARN.Core_Java.Arrays.Practices;
+package SELF_LEARN.Core_Java.$02_Arrays.Practices;
 
 public class JaggedArray {
     public static void main(String[] args) {
