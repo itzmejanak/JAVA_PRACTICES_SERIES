@@ -1,0 +1,22 @@
+## Most important methods of ArrayList defined into one bullet:
+
+- **Key ArrayList Methods**:
+  - `add(E element)`: Appends the specified element to the end of this list.
+  ---
+  - `get(int index)`: Returns the element at the specified position in this list.
+  ---
+  - `set(int index, E element)`: Replaces the element at the specified position in this list with the specified element.
+  ---
+  - `remove(int index)`: Removes the element at the specified position in this list.
+  ---
+  - `size()`: Returns the number of elements in this list.
+  ---
+  - `isEmpty()`: Returns `true` if this list contains no elements.
+  ---
+  - `clear()`: Removes all of the elements from this list.
+  ---
+  - `contains(Object o)`: Returns `true` if this list contains the specified element.
+  ---
+  - `indexOf(Object o)`: Returns the index of the first occurrence of the specified element in this list, or -1 if this list does not contain the element.
+  ---
+  - `toArray()`: Returns an array containing all of the elements in this list in proper sequence.
