@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c7d2b32-8b19-4471-a0bc-6fe1048a2804" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$02_Arrays/$01_Arrays.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$02_Arrays/$02_1D_Arrays.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$02_Arrays/$03_2D_Arrays.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$02_Arrays/Practices/JaggedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/01_Exception.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/02_Diff Excep &amp; Err.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/03_Diff Ch &amp; UnCh.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/Arrays/$01_Arrays.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/Arrays/$02_1D_Arrays.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/Arrays/$03_2D_Arrays.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/Exception handeling/01_Exception.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/Exception handeling/02_Diff Excep &amp; Err.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/Exception handeling/03_Diff Ch &amp; UnCh.md" beforeDir="false" />
-    </list>
+    <list default="true" id="9c7d2b32-8b19-4471-a0bc-6fe1048a2804" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -205,7 +190,7 @@
       <workItem from="1710395064649" duration="3741000" />
       <workItem from="1710399173268" duration="2889000" />
       <workItem from="1710412157374" duration="2583000" />
-      <workItem from="1710670056533" duration="2299000" />
+      <workItem from="1710670056533" duration="2768000" />
     </task>
     <servers />
   </component>
