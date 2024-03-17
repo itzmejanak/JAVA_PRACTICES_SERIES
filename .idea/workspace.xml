@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c7d2b32-8b19-4471-a0bc-6fe1048a2804" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Own_Practics/MusicPlaylistSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Own_Practics/NumberGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Own_Practics/SnackVendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Own_Practics/V_or_Cons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Own_Practics/ExploreSwing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AT_CLASS/CW/$10_GUI/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$10_GUI/Login.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +68,8 @@
     "Application.AT_CLASS.CW.$09_Exception.Calculation.executor": "Run",
     "Application.BorderLayouts.executor": "Run",
     "Application.Calculation.executor": "Run",
+    "Application.ExploreSwing (1).executor": "Run",
+    "Application.ExploreSwing.executor": "Run",
     "Application.FlowLayouts (1).executor": "Run",
     "Application.FlowLayouts.executor": "Run",
     "Application.Frame.executor": "Run",
@@ -97,22 +95,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SnackVendingMachine">
-    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AT_CLASS.CW.$10_GUI.Login" />
+  <component name="RunManager" selected="Application.ExploreSwing">
+    <configuration name="ExploreSwing (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExploreSwing" />
       <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AT_CLASS.CW.$10_GUI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MusicPlaylistSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AT_CLASS.HW.Own_Practics.MusicPlaylistSelector" />
+    <configuration name="ExploreSwing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AT_CLASS.HW.Own_Practics.ExploreSwing" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AT_CLASS.HW.Own_Practics.NumberGame" />
+    <configuration name="MusicPlaylistSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AT_CLASS.HW.Own_Practics.MusicPlaylistSelector" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
@@ -165,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExploreSwing" />
+        <item itemvalue="Application.ExploreSwing (1)" />
         <item itemvalue="Application.SnackVendingMachine" />
         <item itemvalue="Application.MusicPlaylistSelector" />
         <item itemvalue="Application.V_or_Cons" />
-        <item itemvalue="Application.NumberGame" />
-        <item itemvalue="Application.Login" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +191,7 @@
       <workItem from="1710271131231" duration="3624000" />
       <workItem from="1710395064649" duration="3741000" />
       <workItem from="1710399173268" duration="2889000" />
+      <workItem from="1710412157374" duration="2583000" />
     </task>
     <servers />
   </component>
