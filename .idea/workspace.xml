@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c7d2b32-8b19-4471-a0bc-6fe1048a2804" name="Changes" comment="" />
+    <list default="true" id="9c7d2b32-8b19-4471-a0bc-6fe1048a2804" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$09_PracticeLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,47 +56,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.$03_FlowLayouts.executor": "Run",
-    "Application.$04_GridLayouts.executor": "Run",
-    "Application.$05_GridBagLayouts.executor": "Run",
-    "Application.$06_CardLayout.executor": "Run",
-    "Application.$08_JPanelProblems.executor": "Run",
-    "Application.AT_CLASS.CW.$07_OPP.OPP_Basics.$06_Interface.Calculation.executor": "Run",
-    "Application.AT_CLASS.CW.$09_Exception.Calculation.executor": "Run",
-    "Application.BorderLayouts.executor": "Run",
-    "Application.Calculation.executor": "Run",
-    "Application.ExploreSwing (1).executor": "Run",
-    "Application.ExploreSwing.executor": "Run",
-    "Application.FlowLayouts (1).executor": "Run",
-    "Application.FlowLayouts.executor": "Run",
-    "Application.Frame.executor": "Run",
-    "Application.JaggedArray.executor": "Run",
-    "Application.Login.executor": "Run",
-    "Application.MusicPlaylistSelector.executor": "Run",
-    "Application.NullLayout.executor": "Run",
-    "Application.NumberGame.executor": "Run",
-    "Application.SnackVendingMachine.executor": "Run",
-    "Application.Test.executor": "Debug",
-    "Application.V_or_Cons.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/janak/OneDrive/Desktop/JAVA/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.$03_FlowLayouts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.$04_GridLayouts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.$05_GridBagLayouts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.$06_CardLayout.executor&quot;: &quot;Run&quot;,
+    &quot;Application.$08_JPanelProblems.executor&quot;: &quot;Run&quot;,
+    &quot;Application.$09_PracticeLogin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AT_CLASS.CW.$07_OPP.OPP_Basics.$06_Interface.Calculation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AT_CLASS.CW.$09_Exception.Calculation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BorderLayouts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExploreSwing (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExploreSwing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlowLayouts (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlowLayouts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Frame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JaggedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Login.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MusicPlaylistSelector.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NullLayout.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberGame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SnackVendingMachine.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.V_or_Cons.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/janak/OneDrive/Desktop/JAVA/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.JaggedArray">
+}</component>
+  <component name="RunManager" selected="Application.$09_PracticeLogin">
+    <configuration name="$09_PracticeLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.$09_PracticeLogin" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExploreSwing (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExploreSwing" />
       <module name="JAVA" />
@@ -127,19 +144,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MusicPlaylistSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AT_CLASS.HW.Own_Practics.MusicPlaylistSelector" />
-      <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AT_CLASS.HW.Own_Practics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SnackVendingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AT_CLASS.HW.Own_Practics.SnackVendingMachine" />
       <module name="JAVA" />
@@ -155,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.$09_PracticeLogin" />
         <item itemvalue="Application.JaggedArray" />
         <item itemvalue="Application.ExploreSwing" />
         <item itemvalue="Application.ExploreSwing (1)" />
         <item itemvalue="Application.SnackVendingMachine" />
-        <item itemvalue="Application.MusicPlaylistSelector" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +195,8 @@
       <workItem from="1710399173268" duration="2889000" />
       <workItem from="1710412157374" duration="2583000" />
       <workItem from="1710670056533" duration="3363000" />
+      <workItem from="1710733706238" duration="1419000" />
+      <workItem from="1710735297723" duration="158000" />
     </task>
     <servers />
   </component>
