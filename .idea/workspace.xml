@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c7d2b32-8b19-4471-a0bc-6fe1048a2804" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/GUI_Java/Java_Swings/Practices/$09_PracticeLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/04_Try_Catch.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/05_MethodsOfException.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/06_FinallyBlock.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/07_Differences.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/08_PossibleCombination.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/10_ThrowKeyword.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/11_ThrowsKeyword.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/12_Throws&amp;Throw.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/03_Diff Ch &amp; UnCh.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/03_Diff Ch &amp; UnCh.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,6 +205,8 @@
       <workItem from="1710670056533" duration="3363000" />
       <workItem from="1710733706238" duration="1419000" />
       <workItem from="1710735297723" duration="158000" />
+      <workItem from="1710752207769" duration="10892000" />
+      <workItem from="1710776595138" duration="1315000" />
     </task>
     <servers />
   </component>
