@@ -1,4 +1,4 @@
-package AT_CLASS.HW.Course_Works.CourseWork_2;
+package AT_CLASS.HW.Course_Works.CourseWork_2.DEVELOPMENT;
 
 import javax.swing.*;
 import javax.swing.border.Border;
@@ -168,7 +168,7 @@ public class TeacherGui extends JFrame implements ActionListener {
                 "            </li>\n" +
                 "            <li style='margin-bottom: 16px; padding-bottom: 8px; border-bottom: 1px solid #ccc;'>\n" +
                 "                <span style='font-weight: 600; color: #ff6600;'>Set Salary:</span><br>\n" +
-                "                <span style='font-size: 12px;'>Set salary for lecturers or tutors.</span>\n" +
+                "                <span style='font-size: 12px;'>Set salary for of tutors.</span>\n" +
                 "            </li>\n" +
                 "            <li style='margin-bottom: 16px; padding-bottom: 8px; border-bottom: 1px solid #ccc;'>\n" +
                 "                <span style='font-weight: 600; color: #ff6600;'>Remove Tutor:</span><br>\n" +
@@ -176,7 +176,7 @@ public class TeacherGui extends JFrame implements ActionListener {
                 "            </li>\n" +
                 "            <li style='padding-bottom: 8px;'>\n" +
                 "                <span style='font-weight: 600; color: #ff6600;'>Display:</span><br>\n" +
-                "                <span style='font-size: 12px;'>Display various information from the system.</span>\n" +
+                "                <span style='font-size: 12px;'>Display information of Tutors and Lecturer.</span>\n" +
                 "            </li>\n" +
                 "        </ul>\n" +
                 "    </div>\n" +
@@ -196,7 +196,7 @@ public class TeacherGui extends JFrame implements ActionListener {
     }
 
 
-    private static void applyButtonStyle(JButton button) {
+    public void applyButtonStyle(JButton button) {
         button.setBackground(new Color(236, 102, 31));
         button.setForeground(Color.WHITE);
         button.setFocusPainted(false);
@@ -918,7 +918,7 @@ public class TeacherGui extends JFrame implements ActionListener {
         return mainDisplaySectionPanel;
     }
 
-    private void customizeTable(JTable table) {
+    public void customizeTable(JTable table) {
         // Set font for the table
         table.setFont(new Font("Montserrat", Font.PLAIN, 13));
 
@@ -1201,7 +1201,7 @@ public class TeacherGui extends JFrame implements ActionListener {
     }
 
 
-    private boolean containsNumeric(String str) {
+    public boolean containsNumeric(String str) {
         for (char c : str.toCharArray()) {
             if (Character.isDigit(c)) {
                 return true;
@@ -1402,11 +1402,13 @@ public class TeacherGui extends JFrame implements ActionListener {
 
                     // calling method of remove tutor
                     tutor.removeTutor();
-
-                    // removing tutor from the ArrayList
-                    addedTeachers.remove(teacher);
-                    JOptionPane.showMessageDialog(null, "Tutor with ID " + tutorId + " removed successfully.", "Success", JOptionPane.INFORMATION_MESSAGE);
-                    return;
+                    if(tutor.getWorkingHours() > 20 && tutor.getPerformanceIndex() > 2){
+                        JOptionPane.showMessageDialog(null, "Tutor with ID " + tutorId + " Cannot remove Deu to Certified !.", "Failed", JOptionPane.INFORMATION_MESSAGE);
+                        return;
+                    }else {
+                        JOptionPane.showMessageDialog(null, "Tutor with ID " + tutorId + " removed successfully.", "Success", JOptionPane.INFORMATION_MESSAGE);
+                        return;
+                    }
                 }
             }
 
@@ -1522,6 +1524,6 @@ public class TeacherGui extends JFrame implements ActionListener {
 
 
     public static void main(String[] args) {
-        TeacherGui teacherGui = new TeacherGui(); // Create an instance of DebugNew class
+        TeacherGui teacherGui = new TeacherGui(); // Create an instance of TeacherGui class
     }
 }

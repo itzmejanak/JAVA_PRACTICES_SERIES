@@ -5,16 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c7d2b32-8b19-4471-a0bc-6fe1048a2804" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/04_Try_Catch.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/05_MethodsOfException.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/06_FinallyBlock.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/07_Differences.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/08_PossibleCombination.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/10_ThrowKeyword.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/11_ThrowsKeyword.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/12_Throws&amp;Throw.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$10_GUI/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$10_GUI/ComboBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$10_GUI/Debug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$10_GUI/GuiWithPages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/CW/$10_GUI/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_1/23048806JanakDevkota_157827.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_1/CS4001NIProgrammingY23AutumnMainSitCW2QP_84274.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_2/DEVELOPMENT/Debug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_2/DEVELOPMENT/Lecturer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_2/DEVELOPMENT/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_2/DEVELOPMENT/TeacherGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_2/DEVELOPMENT/Tutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_2/DOCUMENTATION/MYJanak.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_2/DOCUMENTATION/Questions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_2/DOCUMENTATION/Sample/22085890 Bibek Bot/Development/Coursework_1/Dropout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_2/DOCUMENTATION/Sample/22085890 Bibek Bot/Development/Coursework_1/Regular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_2/DOCUMENTATION/Sample/22085890 Bibek Bot/Development/Coursework_1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_2/DOCUMENTATION/Sample/22085890 Bibek Bot/Development/Coursework_1/StudentGui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_2/DOCUMENTATION/Sample/22085890 Bibek Bot/Documentation/22085890 Bibek Bot (1).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_2/DOCUMENTATION/Sample/22085890 Bibek Bot/Documentation/22085890 Bibek Bot.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_2/DOCUMENTATION/Sample/Java Coursework.2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_2/DOCUMENTATION/Sample/img/Classdiagram.drawio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_2/DOCUMENTATION/Sample/img/emptyClassDiagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_2/DOCUMENTATION/Sample/img/imgDiagram.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/03_Diff Ch &amp; UnCh.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SELF_LEARN/Core_Java/$04_Exception handeling/03_Diff Ch &amp; UnCh.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_1/Lecturer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_1/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AT_CLASS/HW/Course_Works/CourseWork_1/Tutor.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +56,12 @@
     &quot;assignee&quot;: &quot;itzmejanak&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="542780db-f845-4fd3-8daa-1259706baec4" />
-        <option name="url" value="https://github.com/itzmejanak/JAVA_PRACTICES_SERIES.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/itzmejanak/JAVA_PRACTICES_SERIES.git&quot;,
+    &quot;accountId&quot;: &quot;542780db-f845-4fd3-8daa-1259706baec4&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/AT_CLASS/CW/$07_OPP/OPP_Basics/$06_Interface/Calculation.java" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -67,6 +83,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.$02_BorderLayouts.executor&quot;: &quot;Run&quot;,
     &quot;Application.$03_FlowLayouts.executor&quot;: &quot;Run&quot;,
     &quot;Application.$04_GridLayouts.executor&quot;: &quot;Run&quot;,
     &quot;Application.$05_GridBagLayouts.executor&quot;: &quot;Run&quot;,
@@ -75,19 +92,33 @@
     &quot;Application.$09_PracticeLogin.executor&quot;: &quot;Run&quot;,
     &quot;Application.AT_CLASS.CW.$07_OPP.OPP_Basics.$06_Interface.Calculation.executor&quot;: &quot;Run&quot;,
     &quot;Application.AT_CLASS.CW.$09_Exception.Calculation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AT_CLASS.HW.Course_Works.CourseWork_2.DEVELOPMENT.TeacherGui.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BorderLayouGui.executor&quot;: &quot;Run&quot;,
     &quot;Application.BorderLayouts.executor&quot;: &quot;Run&quot;,
     &quot;Application.Calculation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollegeManagementSystem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComboBox.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Debug.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugNew (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.DebugNew.executor&quot;: &quot;Run&quot;,
     &quot;Application.ExploreSwing (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.ExploreSwing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalTeacherGui.executor&quot;: &quot;Run&quot;,
     &quot;Application.FlowLayouts (1).executor&quot;: &quot;Run&quot;,
     &quot;Application.FlowLayouts.executor&quot;: &quot;Run&quot;,
     &quot;Application.Frame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GuiWithPages.executor&quot;: &quot;Run&quot;,
     &quot;Application.JaggedArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.Login.executor&quot;: &quot;Run&quot;,
     &quot;Application.MusicPlaylistSelector.executor&quot;: &quot;Run&quot;,
     &quot;Application.NullLayout.executor&quot;: &quot;Run&quot;,
     &quot;Application.NumberGame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PageSwitcher.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Register.executor&quot;: &quot;Run&quot;,
     &quot;Application.SnackVendingMachine.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TeacherGui (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.TeacherGui.executor&quot;: &quot;Run&quot;,
     &quot;Application.Test.executor&quot;: &quot;Debug&quot;,
     &quot;Application.V_or_Cons.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -105,9 +136,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.$09_PracticeLogin">
-    <configuration name="$09_PracticeLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.$09_PracticeLogin" />
+  <component name="RunManager">
+    <configuration name="$02_BorderLayouts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.$02_BorderLayouts" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
@@ -119,19 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExploreSwing (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExploreSwing" />
-      <module name="JAVA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExploreSwing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AT_CLASS.HW.Own_Practics.ExploreSwing" />
+    <configuration name="$06_CardLayout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.$06_CardLayout" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AT_CLASS.HW.Own_Practics.*" />
+          <option name="PATTERN" value="SELF_LEARN.GUI_Java.Java_Swings.Practices.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JaggedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SELF_LEARN.Core_Java.Arrays.Practices.JaggedArray" />
+    <configuration name="AT_CLASS.HW.Course_Works.CourseWork_2.DEVELOPMENT.TeacherGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AT_CLASS.HW.Course_Works.CourseWork_2.DEVELOPMENT.TeacherGui" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SELF_LEARN.Core_Java.Arrays.Practices.*" />
+          <option name="PATTERN" value="AT_CLASS.HW.Course_Works.CourseWork_2.DEVELOPMENT.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +176,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SnackVendingMachine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AT_CLASS.HW.Own_Practics.SnackVendingMachine" />
+    <configuration name="ComboBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AT_CLASS.CW.$10_GUI.ComboBox" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AT_CLASS.HW.Own_Practics.*" />
+          <option name="PATTERN" value="AT_CLASS.CW.$10_GUI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeacherGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AT_CLASS.HW.Course_Works.CourseWork_2.TeacherGui" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AT_CLASS.HW.Course_Works.CourseWork_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeacherGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AT_CLASS.HW.Course_Works.CourseWork_2.TeacherGui" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AT_CLASS.HW.Course_Works.CourseWork_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,20 +217,13 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.$09_PracticeLogin" />
-        <item itemvalue="Application.JaggedArray" />
-        <item itemvalue="Application.ExploreSwing" />
-        <item itemvalue="Application.ExploreSwing (1)" />
-        <item itemvalue="Application.SnackVendingMachine" />
+        <item itemvalue="Application.$02_BorderLayouts" />
+        <item itemvalue="Application.AT_CLASS.HW.Course_Works.CourseWork_2.DEVELOPMENT.TeacherGui" />
+        <item itemvalue="Application.TeacherGui" />
+        <item itemvalue="Application.$06_CardLayout" />
+        <item itemvalue="Application.ComboBox" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -207,6 +250,87 @@
       <workItem from="1710735297723" duration="158000" />
       <workItem from="1710752207769" duration="10892000" />
       <workItem from="1710776595138" duration="1315000" />
+      <workItem from="1710818542161" duration="4202000" />
+      <workItem from="1711000167040" duration="4740000" />
+      <workItem from="1711423429358" duration="4755000" />
+      <workItem from="1711433183324" duration="5683000" />
+      <workItem from="1711439446141" duration="1217000" />
+      <workItem from="1711547308008" duration="24487000" />
+      <workItem from="1711593804289" duration="8615000" />
+      <workItem from="1711605228573" duration="2002000" />
+      <workItem from="1711607616790" duration="1025000" />
+      <workItem from="1711629366279" duration="31811000" />
+      <workItem from="1711696101244" duration="11462000" />
+      <workItem from="1711788984905" duration="768000" />
+      <workItem from="1711859082933" duration="45000" />
+      <workItem from="1711902187411" duration="1710000" />
+      <workItem from="1711945587150" duration="74000" />
+      <workItem from="1711957282483" duration="8353000" />
+      <workItem from="1712024552132" duration="2274000" />
+      <workItem from="1712028355576" duration="4220000" />
+      <workItem from="1712209931838" duration="4305000" />
+      <workItem from="1712214461709" duration="696000" />
+      <workItem from="1712281790585" duration="52000" />
+      <workItem from="1712478421534" duration="7802000" />
+      <workItem from="1712511827385" duration="3393000" />
+      <workItem from="1712515321685" duration="115000" />
+      <workItem from="1712521862815" duration="3028000" />
+      <workItem from="1712524923385" duration="2762000" />
+      <workItem from="1712632939637" duration="4508000" />
+      <workItem from="1712639036891" duration="3582000" />
+      <workItem from="1712646416435" duration="511000" />
+      <workItem from="1712649603518" duration="5071000" />
+      <workItem from="1712656518403" duration="837000" />
+      <workItem from="1712657387676" duration="12125000" />
+      <workItem from="1712670900540" duration="2631000" />
+      <workItem from="1712673659348" duration="1821000" />
+      <workItem from="1712682587263" duration="11992000" />
+      <workItem from="1712698454786" duration="540000" />
+      <workItem from="1712722952593" duration="216000" />
+      <workItem from="1712734548707" duration="1452000" />
+      <workItem from="1712737915336" duration="185000" />
+      <workItem from="1712815259261" duration="4421000" />
+      <workItem from="1712820161568" duration="1284000" />
+      <workItem from="1712864623640" duration="7324000" />
+      <workItem from="1712872021799" duration="3398000" />
+      <workItem from="1712875724738" duration="6692000" />
+      <workItem from="1712890695671" duration="604000" />
+      <workItem from="1712897932851" duration="445000" />
+      <workItem from="1712898906128" duration="135000" />
+      <workItem from="1713146793146" duration="248000" />
+      <workItem from="1713202112113" duration="275000" />
+      <workItem from="1713237352490" duration="4611000" />
+      <workItem from="1713285338344" duration="113000" />
+      <workItem from="1713318601921" duration="4296000" />
+      <workItem from="1713323598709" duration="1929000" />
+      <workItem from="1713327479411" duration="318000" />
+      <workItem from="1713771602279" duration="845000" />
+      <workItem from="1713809114628" duration="524000" />
+      <workItem from="1713811388676" duration="822000" />
+      <workItem from="1713847859372" duration="3714000" />
+      <workItem from="1713894255742" duration="3942000" />
+      <workItem from="1714301051021" duration="3677000" />
+      <workItem from="1714362159505" duration="1538000" />
+      <workItem from="1714364214214" duration="2230000" />
+      <workItem from="1714407443342" duration="8483000" />
+      <workItem from="1714447340944" duration="854000" />
+      <workItem from="1714451187800" duration="678000" />
+      <workItem from="1714463162783" duration="1224000" />
+      <workItem from="1714472193805" duration="3013000" />
+      <workItem from="1714475375399" duration="193000" />
+      <workItem from="1714475827808" duration="269000" />
+      <workItem from="1714502184215" duration="1785000" />
+      <workItem from="1714804551157" duration="2520000" />
+      <workItem from="1714829472322" duration="608000" />
+      <workItem from="1714874423562" duration="678000" />
+      <workItem from="1714880310402" duration="503000" />
+      <workItem from="1714881519690" duration="424000" />
+      <workItem from="1714882420448" duration="198000" />
+      <workItem from="1714990671033" duration="361000" />
+      <workItem from="1715056949362" duration="109000" />
+      <workItem from="1715133771927" duration="144000" />
+      <workItem from="1715234979172" duration="483000" />
+      <workItem from="1715708869995" duration="112000" />
     </task>
     <servers />
   </component>
@@ -234,6 +358,16 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AT_CLASS/CW/$10_GUI/Register.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AT_CLASS/CW/$10_GUI/GuiWithPages.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

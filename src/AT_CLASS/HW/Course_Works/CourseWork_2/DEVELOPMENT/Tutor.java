@@ -1,4 +1,4 @@
-package AT_CLASS.HW.Course_Works.CourseWork_2;
+package AT_CLASS.HW.Course_Works.CourseWork_2.DEVELOPMENT;
 
 public class Tutor extends Teacher {
     // Additional attributes
@@ -45,12 +45,13 @@ public class Tutor extends Teacher {
  public void setSalary(double newSalary, int newPerformanceIndex) {
         if (newPerformanceIndex >= 3 && getWorkingHours() > 20) {
             double appraisal = 0.05;
-            if (newPerformanceIndex >= 8) {
-                appraisal = 0.1;
-            } else if (newPerformanceIndex == 10) {
+            if (newPerformanceIndex == 10) {
                 appraisal = 0.2;
+            } else if (newPerformanceIndex >= 8) {
+                appraisal = 0.1;
             }
             this.salary = newSalary + (newSalary * appraisal);
+            this.performanceIndex = newPerformanceIndex;
             this.isCertified = true;
             System.out.println("Salary has been approved, and the appraisal has been applied!");
         } else {

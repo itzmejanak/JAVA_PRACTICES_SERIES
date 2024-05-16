@@ -1,4 +1,4 @@
-package AT_CLASS.HW.Course_Works.CourseWork_2;
+package AT_CLASS.HW.Course_Works.CourseWork_2.DEVELOPMENT;
 
 public class Teacher {
     // Attributes
